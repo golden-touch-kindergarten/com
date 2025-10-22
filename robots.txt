@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://golden-touch-kindergarten.github.io/com/sitemap.xml
